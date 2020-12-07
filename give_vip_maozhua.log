@@ -1,0 +1,39 @@
+12/03/2020 13:13:19 PM - INFO - vip添加开始
+12/03/2020 13:13:19 PM - INFO - 查询数据库内用户的阅读记录 select uid from cps_history where create_time >= 1606900399 group by uid
+12/03/2020 13:13:20 PM - INFO - 用户信息 ((4916982254363293,), (4936380531766271,), (4945070499276771,), (4969473204603880,), (4973881821036124,), (5022177190539813,), (5023761616131464,), (5023769556388701,), (5023866789761956,), (5023879414484709,), (5023955561843897,), (5024004774267942,), (5024056596290801,), (5024644100491539,), (5025064203376098,), (5025515928038080,))
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(4916982254363293,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(4936380531766271,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(4945070499276771,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(4969473204603880,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(4973881821036124,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5022177190539813,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5023761616131464,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5023769556388701,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5023866789761956,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5023879414484709,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5023955561843897,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5024004774267942,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5024056596290801,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5024644100491539,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 用户(5025064203376098,)已赠送
+12/03/2020 13:13:20 PM - INFO - 查询是否已经赠送会员 select customer_id from cps_give_vip where customer_id = %s and is_give = 1
+12/03/2020 13:13:20 PM - INFO - 更新cps_customer内的会员天数 update cps_customer set status = 1, vip_enddate = case when vip_enddate > UNIX_TIMESTAMP(current_timestamp()) then UNIX_TIMESTAMP(DATE_ADD(FROM_UNIXTIME(vip_enddate,'%%Y-%%m-%%d 00:00:00'),INTERVAL 2 DAY)) else UNIX_TIMESTAMP(DATE_ADD(curdate(),INTERVAL 2 DAY))  end where uid = %s
+12/03/2020 13:13:20 PM - INFO - 查询cps_member_pay是否存在信息 select * from cps_member_pay cmp left join cps_customer cc on cc.unionid = cmp.unionid where cc.uid = %s
+12/03/2020 13:13:20 PM - INFO - cps_member_pay没数据
+12/03/2020 13:13:20 PM - INFO - sql执行成功
+12/03/2020 13:13:20 PM - INFO - vip添加结束

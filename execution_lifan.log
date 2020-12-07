@@ -1,0 +1,68 @@
+10/30/2020 17:41:52 PM - INFO - 狸番评论禁词清理开始
+10/30/2020 17:41:52 PM - INFO - sql执行成功
+10/30/2020 17:41:52 PM - INFO - 狸番评论禁词清理结束
+10/30/2020 17:41:52 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:41:53 PM - INFO - sql执行成功
+10/30/2020 17:41:53 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:44:40 PM - INFO - 狸番评论禁词清理开始
+10/30/2020 17:44:41 PM - INFO - sql执行成功
+10/30/2020 17:44:41 PM - INFO - 狸番评论禁词清理结束
+10/30/2020 17:44:41 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:44:41 PM - INFO - sql执行成功
+10/30/2020 17:44:41 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:45:28 PM - INFO - 狸番评论禁词清理开始
+10/30/2020 17:45:29 PM - INFO - sql执行成功
+10/30/2020 17:45:29 PM - INFO - 狸番评论禁词清理结束
+10/30/2020 17:45:29 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:45:29 PM - INFO - sql执行成功
+10/30/2020 17:45:29 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:45:52 PM - INFO - 狸番评论禁词清理开始
+10/30/2020 17:45:52 PM - INFO - sql执行成功
+10/30/2020 17:45:52 PM - INFO - 狸番评论禁词清理结束
+10/30/2020 17:45:52 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:45:52 PM - INFO - sql执行成功
+10/30/2020 17:45:52 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:48:42 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:48:42 PM - INFO - 修改后受影响的行数为：{}
+10/30/2020 17:48:42 PM - INFO - sql执行成功
+10/30/2020 17:48:42 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:51:56 PM - INFO - This is a info log.:
+10/30/2020 17:51:57 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:51:57 PM - INFO - 修改后受影响的行数为：{}
+10/30/2020 17:51:57 PM - INFO - sql执行成功
+10/30/2020 17:51:57 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:56:13 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE ( content like '%终身%' or content like '%sex%' or content like '%乳%' or content like '%色%' or content like '%肉%' or content like '%rou%' or content like '%付费%' or content like '%充值%' or content like '%免费%' or content like '%加q%' or content like '%jiaq%' or content like '%q加%' or content like '%无删%' or content like '%资源%' or content like '%加好友%' or content like '%你大爷%' or content like '%你妈%' or content like '%gcd%' or content like '%自慰%' or content like '%+%' or content like '%sao%' or content like '%变态%' or content like '%台湾独立%' or content like '%独立%' or content like '%咚漫%' or content like '%j8%' or content like '%JB%' or content like '%射%' or content like '%seqing%' or content like '%淫%' or content like '%鸡巴%' or content like '%有妖气%' or content like '%军%' or content like '%习近平%' or content like '%+v%' or content like '%saoxue%' or content like '%香港独立%' or content like '%肛%' or content like '%肉%' or content like '%革命%' or content like '%他妈%' or content like '%fuck%' or content like '%GD%' or content like '%小弟弟%' or content like '%约炮%' or content like '%快看%' or content like '%sb%' or content like '%gangdu%' or content like '%政%' or content like '%SM%' or content like '%xjp%' or content like '%党%' or content like '%黄色%' or content like '%骚%' or content like '%港独%' or content like '%强奸%' or content like '%+w%' or content like '%干%' or content like '%yinluan%' or content like '%lu%' or content like '%奸%' or content like '%roubang%' or content like '%加微信%' or content like '%腾讯%' or content like '%屎%' or content like '%六四运动%' or content like '%炮%' or content like '%加qq%' or content like '%操%' or content like '%打飞机%' or content like '%性侵%' or content like '%舔%' or content like '%色情%' or content like '%逼%' or content like '%肉棒%' or content like '%台独%' or content like '%屁%' or content like '%私处%' or content like '%龟头%' or content like '%TD%' or content like '%B%' or content like '%澳门独立%' or content like '%撸%' or content like '%睾%' or content like '%鸡%' or content like '%便器%' or content like '%上床%' or content like '%爽%' or content like '%奶%' or content like '%huangse%' or content like '%xijinping%' or content like '%骚穴%' or content like '%资源%' or content like '%共产党%' or content like '%mm%' or content like '%加%' or content like '%taidu%' or content like '%+q%' or content like '%JJ%' or content like '%无珊減%' or content like '%481752318%' or content like '%pp反过来%') AND isdelete = 0
+10/30/2020 17:56:14 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:56:14 PM - INFO - 修改后受影响的行数为：{}
+10/30/2020 17:56:14 PM - INFO - sql执行成功
+10/30/2020 17:56:14 PM - INFO - 狸番垃圾评论清理结束
+10/30/2020 17:57:04 PM - INFO - 狸番评论禁词清理开始
+10/30/2020 17:57:04 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE ( content like '%终身%' or content like '%sex%' or content like '%乳%' or content like '%色%' or content like '%肉%' or content like '%rou%' or content like '%付费%' or content like '%充值%' or content like '%免费%' or content like '%加q%' or content like '%jiaq%' or content like '%q加%' or content like '%无删%' or content like '%资源%' or content like '%加好友%' or content like '%你大爷%' or content like '%你妈%' or content like '%gcd%' or content like '%自慰%' or content like '%+%' or content like '%sao%' or content like '%变态%' or content like '%台湾独立%' or content like '%独立%' or content like '%咚漫%' or content like '%j8%' or content like '%JB%' or content like '%射%' or content like '%seqing%' or content like '%淫%' or content like '%鸡巴%' or content like '%有妖气%' or content like '%军%' or content like '%习近平%' or content like '%+v%' or content like '%saoxue%' or content like '%香港独立%' or content like '%肛%' or content like '%肉%' or content like '%革命%' or content like '%他妈%' or content like '%fuck%' or content like '%GD%' or content like '%小弟弟%' or content like '%约炮%' or content like '%快看%' or content like '%sb%' or content like '%gangdu%' or content like '%政%' or content like '%SM%' or content like '%xjp%' or content like '%党%' or content like '%黄色%' or content like '%骚%' or content like '%港独%' or content like '%强奸%' or content like '%+w%' or content like '%干%' or content like '%yinluan%' or content like '%lu%' or content like '%奸%' or content like '%roubang%' or content like '%加微信%' or content like '%腾讯%' or content like '%屎%' or content like '%六四运动%' or content like '%炮%' or content like '%加qq%' or content like '%操%' or content like '%打飞机%' or content like '%性侵%' or content like '%舔%' or content like '%色情%' or content like '%逼%' or content like '%肉棒%' or content like '%台独%' or content like '%屁%' or content like '%私处%' or content like '%龟头%' or content like '%TD%' or content like '%B%' or content like '%澳门独立%' or content like '%撸%' or content like '%睾%' or content like '%鸡%' or content like '%便器%' or content like '%上床%' or content like '%爽%' or content like '%奶%' or content like '%huangse%' or content like '%xijinping%' or content like '%骚穴%' or content like '%资源%' or content like '%共产党%' or content like '%mm%' or content like '%加%' or content like '%taidu%' or content like '%+q%' or content like '%JJ%' or content like '%无珊減%' or content like '%481752318%' or content like '%pp反过来%') AND isdelete = 0
+10/30/2020 17:57:04 PM - INFO - 修改后受影响的行数为：0
+10/30/2020 17:57:04 PM - INFO - sql执行成功
+10/30/2020 17:57:04 PM - INFO - 狸番评论禁词清理结束
+10/30/2020 17:57:04 PM - INFO - 狸番垃圾评论清理开始
+10/30/2020 17:57:04 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE (content regexp '[^0-9]' = 0 or content regexp '[^[:punct:]\ \（\）\《\》\——\；\，\。\“\”\<\>\！\ ]' = 0 or content regexp '[^a-zA-Z]' = 0 or (content regexp '[一-龥]' = 1 and length(REPLACE(content,' ','')) = 3)) AND isdelete = 0
+10/30/2020 17:57:04 PM - INFO - 修改后受影响的行数为：0
+10/30/2020 17:57:04 PM - INFO - sql执行成功
+10/30/2020 17:57:04 PM - INFO - 狸番垃圾评论清理结束
+11/02/2020 14:23:46 PM - INFO - 狸番评论禁词清理开始
+11/02/2020 14:23:46 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE ( content like '%终身%' or content like '%sex%' or content like '%乳%' or content like '%色%' or content like '%肉%' or content like '%rou%' or content like '%付费%' or content like '%充值%' or content like '%免费%' or content like '%加q%' or content like '%jiaq%' or content like '%q加%' or content like '%无删%' or content like '%资源%' or content like '%加好友%' or content like '%你大爷%' or content like '%你妈%' or content like '%gcd%' or content like '%自慰%' or content like '%+%' or content like '%sao%' or content like '%变态%' or content like '%台湾独立%' or content like '%独立%' or content like '%咚漫%' or content like '%j8%' or content like '%JB%' or content like '%射%' or content like '%seqing%' or content like '%淫%' or content like '%鸡巴%' or content like '%有妖气%' or content like '%军%' or content like '%习近平%' or content like '%+v%' or content like '%saoxue%' or content like '%香港独立%' or content like '%肛%' or content like '%肉%' or content like '%革命%' or content like '%他妈%' or content like '%fuck%' or content like '%GD%' or content like '%小弟弟%' or content like '%约炮%' or content like '%快看%' or content like '%sb%' or content like '%gangdu%' or content like '%政%' or content like '%SM%' or content like '%xjp%' or content like '%党%' or content like '%黄色%' or content like '%骚%' or content like '%港独%' or content like '%强奸%' or content like '%+w%' or content like '%干%' or content like '%yinluan%' or content like '%lu%' or content like '%奸%' or content like '%roubang%' or content like '%加微信%' or content like '%腾讯%' or content like '%屎%' or content like '%六四运动%' or content like '%炮%' or content like '%加qq%' or content like '%操%' or content like '%打飞机%' or content like '%性侵%' or content like '%舔%' or content like '%色情%' or content like '%逼%' or content like '%肉棒%' or content like '%台独%' or content like '%屁%' or content like '%私处%' or content like '%龟头%' or content like '%TD%' or content like '%B%' or content like '%澳门独立%' or content like '%撸%' or content like '%睾%' or content like '%鸡%' or content like '%便器%' or content like '%上床%' or content like '%爽%' or content like '%奶%' or content like '%huangse%' or content like '%xijinping%' or content like '%骚穴%' or content like '%资源%' or content like '%共产党%' or content like '%mm%' or content like '%加%' or content like '%taidu%' or content like '%+q%' or content like '%JJ%' or content like '%无珊減%' or content like '%481752318%' or content like '%pp反过来%') AND isdelete = 0
+11/02/2020 14:23:47 PM - INFO - 修改后受影响的行数为：0
+11/02/2020 14:23:47 PM - INFO - sql执行成功
+11/02/2020 14:23:47 PM - INFO - 狸番评论禁词清理结束
+11/02/2020 14:23:47 PM - INFO - 狸番垃圾评论清理开始
+11/02/2020 14:23:47 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE (content regexp '[^0-9]' = 0 or content regexp '[^[:punct:]\ \（\）\《\》\——\；\，\。\“\”\<\>\！\ ]' = 0 or content regexp '[^a-zA-Z]' = 0 or (content regexp '[一-龥]' = 1 and length(REPLACE(content,' ','')) = 3)) AND isdelete = 0
+11/02/2020 14:23:47 PM - INFO - 修改后受影响的行数为：0
+11/02/2020 14:23:47 PM - INFO - sql执行成功
+11/02/2020 14:23:47 PM - INFO - 狸番垃圾评论清理结束
+11/02/2020 14:25:16 PM - INFO - 狸番评论禁词清理开始
+11/02/2020 14:25:16 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE ( content like '%终身%' or content like '%sex%' or content like '%乳%' or content like '%色%' or content like '%肉%' or content like '%rou%' or content like '%付费%' or content like '%充值%' or content like '%免费%' or content like '%加q%' or content like '%jiaq%' or content like '%q加%' or content like '%无删%' or content like '%资源%' or content like '%加好友%' or content like '%你大爷%' or content like '%你妈%' or content like '%gcd%' or content like '%自慰%' or content like '%+%' or content like '%sao%' or content like '%变态%' or content like '%台湾独立%' or content like '%独立%' or content like '%咚漫%' or content like '%j8%' or content like '%JB%' or content like '%射%' or content like '%seqing%' or content like '%淫%' or content like '%鸡巴%' or content like '%有妖气%' or content like '%军%' or content like '%习近平%' or content like '%+v%' or content like '%saoxue%' or content like '%香港独立%' or content like '%肛%' or content like '%肉%' or content like '%革命%' or content like '%他妈%' or content like '%fuck%' or content like '%GD%' or content like '%小弟弟%' or content like '%约炮%' or content like '%快看%' or content like '%sb%' or content like '%gangdu%' or content like '%政%' or content like '%SM%' or content like '%xjp%' or content like '%党%' or content like '%黄色%' or content like '%骚%' or content like '%港独%' or content like '%强奸%' or content like '%+w%' or content like '%干%' or content like '%yinluan%' or content like '%lu%' or content like '%奸%' or content like '%roubang%' or content like '%加微信%' or content like '%腾讯%' or content like '%屎%' or content like '%六四运动%' or content like '%炮%' or content like '%加qq%' or content like '%操%' or content like '%打飞机%' or content like '%性侵%' or content like '%舔%' or content like '%色情%' or content like '%逼%' or content like '%肉棒%' or content like '%台独%' or content like '%屁%' or content like '%私处%' or content like '%龟头%' or content like '%TD%' or content like '%B%' or content like '%澳门独立%' or content like '%撸%' or content like '%睾%' or content like '%鸡%' or content like '%便器%' or content like '%上床%' or content like '%爽%' or content like '%奶%' or content like '%huangse%' or content like '%xijinping%' or content like '%骚穴%' or content like '%资源%' or content like '%共产党%' or content like '%mm%' or content like '%加%' or content like '%taidu%' or content like '%+q%' or content like '%JJ%' or content like '%无珊減%' or content like '%481752318%' or content like '%pp反过来%') AND isdelete = 0
+11/02/2020 14:25:16 PM - INFO - 修改后受影响的行数为：0
+11/02/2020 14:25:16 PM - INFO - sql执行成功
+11/02/2020 14:25:16 PM - INFO - 狸番评论禁词清理结束
+11/02/2020 14:25:16 PM - INFO - 狸番垃圾评论清理开始
+11/02/2020 14:25:16 PM - INFO - sql执行语句 UPDATE c_comment SET isdelete = 1 WHERE (content regexp '[^0-9]' = 0 or content regexp '[^[:punct:]\ \（\）\《\》\——\；\，\。\“\”\<\>\！\ ]' = 0 or content regexp '[^a-zA-Z]' = 0 or (content regexp '[一-龥]' = 1 and length(REPLACE(content,' ','')) = 3)) AND isdelete = 0
+11/02/2020 14:25:16 PM - INFO - 修改后受影响的行数为：0
+11/02/2020 14:25:16 PM - INFO - sql执行成功
+11/02/2020 14:25:16 PM - INFO - 狸番垃圾评论清理结束
